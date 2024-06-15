@@ -1,0 +1,2 @@
+# jsp
+javascript practice folder
